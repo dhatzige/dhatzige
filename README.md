@@ -1,15 +1,10 @@
-### Hey, I'm Dimitris
+## Dimitris Chatzigeorgiou
 
-Career services professional turned AI-native builder. No formal programming background.
+Operations professional who automates the processes he runs: career services and business liaison at an American college, global business and people operations for a UK financial-services consultancy, and builder of two HR-tech products.
 
-**What I build with Claude Code:**
+**Live:** [yourjobremote.com](https://yourjobremote.com/en), a bilingual AI career platform (Claude API, Stripe payments).
+**Relaunching:** [talentspottingai.com](https://talentspottingai.com), a full recruitment ATS (223K lines of code, 6,153 automated tests), built solo with AI-assisted development.
 
-- **[TalentSpottingAI](https://www.talentspottingai.com)** -- Full-stack career platform connecting university students with internships across Greece and the Balkans. 223K lines of production code. Next.js 15, Express 5, PostgreSQL, 4 dashboards, complete ATS, event system with QR check-ins, NLP skill extraction. Built entirely with Claude Code.
+Production code for both lives in private repositories. [CV-EXTRACTOR](https://github.com/dhatzige/CV-EXTRACTOR) is the public sample: a Claude-powered CV parser with anti-hallucination prompt design, in production use at a consultancy, cutting data entry from 15 minutes to about 30 seconds per CV.
 
-- **[CV Parser](https://pp-cv-extractor-zeta.vercel.app/)** -- CV extraction tool powered by Claude API. Parses uploaded CVs into structured data with field-level editing and Excel/TSV export. Built for [Proximos Partners](https://www.proximospartners.com/).
-
-- **Career Services CRM** -- Internal CRM for a university career office. In daily use for employer relationship management, student tracking, and event coordination.
-
-**Stack:** TypeScript, Next.js, React, Node.js, Express, PostgreSQL, Prisma, Claude API, Claude Code
-
-Based in Thessaloniki, Greece.
+I am not a developer by trade. I am an operator who ships with Claude Code, MCP, and disciplined context engineering. Based in Thessaloniki, Greece.
