@@ -6,6 +6,6 @@ I run career services and business liaison at an American college (a network of 
 
 **Launched, then parked by choice:** [talentspottingai.com](https://talentspottingai.com), an AI-powered career platform connecting university students with employers and universities, with a built-in ATS and event system (200,000+ lines of code, 10,000+ automated tests), built solo with AI-assisted development. Launched early 2026, then taken offline to control infrastructure costs; a landing page with a waitlist is live. Build notes: [TalentSpottingAI-build-notes](https://github.com/dhatzige/TalentSpottingAI-build-notes).
 
-Production code for both lives in private repositories. [CV-EXTRACTOR](https://github.com/dhatzige/CV-EXTRACTOR) is the public sample: a Claude-powered CV parser with anti-hallucination prompt design, in production use at a consultancy for referred-candidate intake, cutting each CV's entry into the recruitment tracker from about 15 minutes to about 30 seconds.
+Production code for both lives in private repositories. [CV-EXTRACTOR](https://github.com/dhatzige/CV-EXTRACTOR) is the public sample: a Claude-powered CV parser with anti-hallucination prompt design, in use at a consultancy for referred-candidate intake.
 
 I am not a developer by trade. I ship with Claude Code, MCP, and disciplined context engineering: project CLAUDE.md systems, scoped rules, project memory, and review sub-agents. Based in Thessaloniki, Greece.
